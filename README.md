@@ -13,6 +13,7 @@
 
 📫 **Let's Connect!** I'm open to discussing new opportunities, collaborations, or just exchanging ideas about technology and software development.
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nazarii.tsyhaniuk@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazarii-tsyhaniuk/) 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/nazar.tsyhanyuk/)
 
